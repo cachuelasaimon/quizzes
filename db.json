@@ -1,0 +1,17 @@
+{
+    "quizzes":[
+        { 
+            "id":"1",
+            "quizName":"",
+            "subject":"",
+            "trial":"1",
+            "timeLimit":"6000",
+            "itemTypes":{
+                "identification":[],
+                "enumeration":[],
+                "matchingType":[],
+                "essay":[]
+            } 
+    }
+]
+}
